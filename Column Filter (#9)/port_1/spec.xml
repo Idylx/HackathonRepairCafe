@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="21"/>
+<entry key="number_columns" type="xint" value="22"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="#"/>
 <config key="element_names">
@@ -1321,6 +1321,31 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_14">
+<entry key="column_name" type="xstring" value="reparateurID"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="-1"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="-1"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_15">
 <entry key="column_name" type="xstring" value="domaineID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1345,7 +1370,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_15">
+<config key="column_spec_16">
 <entry key="column_name" type="xstring" value="canalID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1370,7 +1395,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_16">
+<config key="column_spec_17">
 <entry key="column_name" type="xstring" value="diagnosticID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1395,7 +1420,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_17">
+<config key="column_spec_18">
 <entry key="column_name" type="xstring" value="raisonResolutionID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1420,7 +1445,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_18">
+<config key="column_spec_19">
 <entry key="column_name" type="xstring" value="ancienneteID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1445,8 +1470,33 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_19">
+<config key="column_spec_20">
 <entry key="column_name" type="xstring" value="ageID"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="-1"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="-1"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_21">
+<entry key="column_name" type="xstring" value="resolutionID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1463,32 +1513,7 @@
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
 <config key="org.knime.core.data.def.IntCell">
-<entry key="IntCell" type="xint" value="4"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_20">
-<entry key="column_name" type="xstring" value="prediction"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-<config key="org.knime.core.data.def.IntCell">
-<entry key="IntCell" type="xint" value="-1"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-<config key="org.knime.core.data.def.IntCell">
-<entry key="IntCell" type="xint" value="-1"/>
+<entry key="IntCell" type="xint" value="3"/>
 </config>
 </config>
 </config>

@@ -7,8 +7,8 @@
 </config>
 <config key="model">
 <entry key="target_column" type="xstring" value="Canal"/>
-<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/dictionnaries/Canal_Dictionnary.txt"/>
 <entry key="appended_column" type="xstring" value="CanalV2"/>
+<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/dictionnaries/Canal_Dictionnary.txt"/>
 <entry key="delimiter_in_dict" type="xchar" value=","/>
 </config>
 <config key="nodeAnnotation">
@@ -52,6 +52,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="2c528792-dfcb-49ef-8dcf-706253072483"/>
+<entry key="file_store_id" type="xstring" value="630e178c-ee20-4554-ab46-2cbc074b852a"/>
 </config>
 </config>

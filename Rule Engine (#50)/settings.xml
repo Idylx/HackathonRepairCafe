@@ -17,7 +17,7 @@
 </config>
 <entry key="new-column-name" type="xstring" value="prediction"/>
 <entry key="replace-column-name" type="xstring" value="ageID"/>
-<entry key="append-column" type="xboolean" value="true"/>
+<entry key="append-column" type="xboolean" value="false"/>
 <entry key="disallowLongOutputForCompatibility" type="xboolean" value="false"/>
 </config>
 <config key="nodeAnnotation">
@@ -61,6 +61,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="9bf7b3f2-00e2-4c50-b8e5-2b061f7af156"/>
+<entry key="file_store_id" type="xstring" value="caeeada1-9320-4ae1-9d5c-ccae865abff9"/>
 </config>
 </config>

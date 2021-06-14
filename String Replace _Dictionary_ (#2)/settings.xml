@@ -7,8 +7,8 @@
 </config>
 <config key="model">
 <entry key="target_column" type="xstring" value="Objet"/>
-<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/data/Domaine_Dictionnary.txt"/>
 <entry key="appended_column" type="xstring" value="DomaineV2"/>
+<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/data/Domaine_Dictionnary.txt"/>
 <entry key="delimiter_in_dict" type="xchar" value=","/>
 </config>
 <config key="nodeAnnotation">
@@ -52,6 +52,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="2de7fa35-8663-4105-9452-35866289bb71"/>
+<entry key="file_store_id" type="xstring" value="63fb2aa6-2831-4823-8344-ca990267de73"/>
 </config>
 </config>

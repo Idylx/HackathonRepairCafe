@@ -7,17 +7,17 @@
 </config>
 <config key="model">
 <entry key="target_column" type="xstring" value="Canal"/>
-<entry key="dictionary_location" type="xstring" value="C:\Users\Olivier\switchdrive\Private\knime-workspace\School\Data\Canal_Dictionnary.txt"/>
+<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/data/Canal_Dictionnary.txt"/>
 <entry key="appended_column" type="xstring" value="CanalV2"/>
 <entry key="delimiter_in_dict" type="xchar" value=","/>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="Canal Dictionnary"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="547"/>
+<entry key="x-coordinate" type="xint" value="548"/>
 <entry key="y-coordinate" type="xint" value="399"/>
-<entry key="width" type="xint" value="106"/>
-<entry key="height" type="xint" value="15"/>
+<entry key="width" type="xint" value="104"/>
+<entry key="height" type="xint" value="13"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -32,11 +32,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.3.v202105242122"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
+<entry key="node-feature-version" type="xstring" value="4.3.3.v202105242122"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="String Replace (Dictionary)"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -52,6 +52,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="3acc42c4-c283-4cb3-9547-951ffb42b5c9"/>
+<entry key="file_store_id" type="xstring" value="24dd97a9-932d-4b29-9530-be60aa483618"/>
 </config>
 </config>

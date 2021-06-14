@@ -1204,11 +1204,11 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="9"/>
+<entry key="array-size" type="xint" value="18"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Appareils électriques"/>
+<entry key="StringCell" type="xstring" value="Appareils %%65533lectriques"/>
 </config>
 </config>
 <config key="1">
@@ -1220,43 +1220,97 @@
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Vélos"/>
+<entry key="StringCell" type="xstring" value="vélo"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Electroménager"/>
+<entry key="StringCell" type="xstring" value="Electrom%%65533nager"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Téléphones portables et tablettes"/>
+<entry key="StringCell" type="xstring" value="combiné téléphone"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Electronique de divertissement"/>
+<entry key="StringCell" type="xstring" value="épilateur"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Mécanique"/>
+<entry key="StringCell" type="xstring" value="Electronique de divertissement"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Bricolage / Upcycling"/>
+<entry key="StringCell" type="xstring" value="M%%65533canique"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="four à raclette"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="scie à bois"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="mahcine à coudre"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="fer à repasser"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="Textile"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="train électrique"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="yogurthière"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="téléphone"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="casque écouteurs"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="écouteurs sans fil"/>
 </config>
 </config>
 </config>
@@ -1274,23 +1328,23 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="9"/>
+<entry key="array-size" type="xint" value="13"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Agenda régional"/>
+<entry key="StringCell" type="xstring" value="agenda régional"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Bibliothèque"/>
+<entry key="StringCell" type="xstring" value="Biblioth%%65533que"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Présence autre Repair-Café"/>
+<entry key="StringCell" type="xstring" value="déjà venue"/>
 </config>
 </config>
 <config key="3">
@@ -1302,31 +1356,55 @@
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Bouche à oreille"/>
+<entry key="StringCell" type="xstring" value="bibliothèque"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Autres sites web"/>
+<entry key="StringCell" type="xstring" value="Bouche %%65533 oreille"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Brochure"/>
+<entry key="StringCell" type="xstring" value="Autres sites web"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Autre"/>
+<entry key="StringCell" type="xstring" value="Brochure"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Autre"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="Newsletter FRC"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="marché"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="par un bénévole"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="bénévole"/>
 </config>
 </config>
 </config>

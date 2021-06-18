@@ -7,8 +7,8 @@
 </config>
 <config key="model">
 <entry key="target_column" type="xstring" value="ColumnValues"/>
-<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/../dictionnaries/Domaine_Dictionnary.txt"/>
 <entry key="appended_column" type="xstring" value="domaineV2"/>
+<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/../dictionnaries/Domaine_Dictionnary.txt"/>
 <entry key="delimiter_in_dict" type="xchar" value=","/>
 </config>
 <config key="nodeAnnotation">

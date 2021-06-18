@@ -8,7 +8,7 @@
 <config key="model">
 <entry key="target_column" type="xstring" value="canal"/>
 <entry key="appended_column" type="xstring" value="CanalV2"/>
-<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/dictionnaries/Canal_Dictionnary.txt"/>
+<entry key="dictionary_location" type="xstring" value="knime://knime.workflow/../dictionnaries/Canal_Dictionnary.txt"/>
 <entry key="delimiter_in_dict" type="xchar" value=","/>
 </config>
 <config key="nodeAnnotation">

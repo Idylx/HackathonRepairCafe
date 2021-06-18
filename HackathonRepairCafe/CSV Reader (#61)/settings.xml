@@ -7,7 +7,7 @@
 </config>
 <config key="model">
 <config key="table_spec_config_Internals">
-<entry key="root_path_Internals" type="xstring" value="knime://knime.workflow/data/CH.csv"/>
+<entry key="root_path_Internals" type="xstring" value="knime://knime.workflow/../../data/CH.csv"/>
 <config key="datatable_spec_Internals">
 <entry key="spec_name" type="xstring" value="default"/>
 <entry key="number_columns" type="xint" value="23"/>
@@ -290,7 +290,7 @@
 </config>
 <config key="file_paths_Internals">
 <entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="data/CH.csv"/>
+<entry key="0" type="xstring" value="../../data/CH.csv"/>
 </config>
 <config key="individual_specs_Internals">
 <config key="individual_spec_0">
@@ -666,7 +666,7 @@
 <entry key="location_present" type="xboolean" value="true"/>
 <entry key="file_system_type" type="xstring" value="CUSTOM_URL"/>
 <entry key="file_system_specifier" type="xstring" value="1000"/>
-<entry key="path" type="xstring" value="knime://knime.workflow/data/CH.csv"/>
+<entry key="path" type="xstring" value="knime://knime.workflow/../../data/CH.csv"/>
 </config>
 <config key="filter_mode_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
